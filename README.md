@@ -40,4 +40,4 @@ Vous pouvez me contacter via :
 -   **Email** : andernackn@gmail.com
 -   **LinkedIn** : Noé Andernack
 
-N'hésitez pas à me contacter si vous avez des questions, des suggestions ou si vous souhaitez simplement discuter de développe
+N'hésitez pas à me contacter si vous avez des questions, des suggestions ou si vous souhaitez simplement discuter de développement.
